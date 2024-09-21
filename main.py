@@ -1,1 +1,1 @@
-print("mama")
+print("mama2")
